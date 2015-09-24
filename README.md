@@ -7,7 +7,7 @@ This template contains everything for testing with RSpec.
 To quickly download this template from Github:
 
     svn export https://github.com/CodeRetreatNL/genesis/branches/ruby-rspec
-    cd ruby-spec
+    cd ruby-rspec
     bundle install
 
 ## Usage
