@@ -1,3 +1,15 @@
 # CodeRetreat.nl Genesis
 
-This repository contains starting templastes for different languages and testing frameworks to quickly get you going.
+This template contains everything for testing with Golang.
+
+## Setup
+
+To quickly download this template from Github:
+
+    svn export https://github.com/CodeRetreatNL/genesis/branches/golang
+    cd golang
+
+## Usage
+
+    go test -v
+
