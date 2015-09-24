@@ -1,3 +1,7 @@
 # CodeRetreat.nl Genesis
 
-This repository contains starting templastes for different languages and testing frameworks to quickly get you going.
+This template contains everything for testing with RSpec.
+
+## Usage
+
+    rspec project_spec.rb
