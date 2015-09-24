@@ -1,7 +1,5 @@
-require 'minitest/autorun'
-
-class TestDemo < Minitest::Test
-  def test_true
-    assert true
+class Project
+  def completed?
+    true
   end
 end
