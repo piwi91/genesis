@@ -12,4 +12,4 @@ To quickly download this template from Github:
 
 ## Usage
 
-    rspec project_spec.rb
+    ruby project_test.rb
