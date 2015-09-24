@@ -1,7 +1,7 @@
 require 'minitest/autorun'
 
-class TestDemo < Minitest::Test
-  def test_true
-    assert true
+describe "Demo" do
+  it 'must be true' do
+    true.must_equal true
   end
 end
